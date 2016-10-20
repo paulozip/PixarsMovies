@@ -6,6 +6,8 @@ In this case I used a dataset containing all Pixar's Movies upto 2015. Informati
 <h1>Tools and skills used in this project</h1>
 
 <b>Programming Language:</b> Python<br>
+<b>Libraries:</b> Pandas, Seaborn and Matplotlib<br>
 <b>Presentation:</b> Jupyter Notebook<br>
 <b>Storytelling</b><br>
 <b>Data Cleaning</b><br>
+<b>Data Visualization</b>
